@@ -1,11 +1,6 @@
 /*
 EEE310 : Control Systems 1: Copter Motor Project.
 
-Group 1 Members:
-1. Peter Kagwe   : Group leader.
-2. Lewis Kanake  : Member
-3. Irvin Morangi : Member.
-
 This is a Control Systems 1 project which will emulate an Aeropendulum.
 The following components are used:
 1. A2212 Copter Motor, and propellers.
