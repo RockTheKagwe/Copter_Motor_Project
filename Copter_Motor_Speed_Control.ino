@@ -62,7 +62,7 @@ void increase_motor_speed()
     
     potentiometer_value = analogRead(potPin);
   
-    swing_angle=map(potentiometer_value, 0, 290, 0, 90);
+    swing_angle=map(potentiometer_value, 0, 290, 0, 90); //Mapping the angle
 
     display_angle=reference_angle-(swing_angle);
 
